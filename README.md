@@ -5,7 +5,7 @@ project helps you calculate and round tip amounts based on
 the bill amount and tip percentage.
 
 
-# Mobile Apps 2 CA2
+# Mobile Apps 2 CA1
 
 - Student Name: Jennifer Kelly Dos Santos
 - Student ID: 22605
