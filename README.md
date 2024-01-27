@@ -20,7 +20,7 @@ the bill amount and tip percentage.
 
 ## References and Credits
 
-1.  URL: [Link](https://developer.android.com/codelabs/basic-android-compose-calculate-tip#0)
+1.  Android Developers URL: [Link](https://developer.android.com/codelabs/basic-android-compose-calculate-tip#0)
 
 ## APK Releases
 
