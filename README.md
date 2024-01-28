@@ -25,3 +25,4 @@ the bill amount and tip percentage.
 ## APK Releases
 
 1. Tip Time Calculator [link](https://github.com/jenniferksantos/Tip-Calculator/releases/tag/ca1)
+2. YouTube Video [link](https://youtu.be/7n7ZeorBq5c)
